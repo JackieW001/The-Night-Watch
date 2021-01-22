@@ -4,7 +4,7 @@ A final version of the game with twelve levels. Mac and Windows applications are
 
 
 ## Quick Start Guide
-To start, head on over to Releases on the side and download the Mac or Windows zip file of the game.
+To start, head on over to Releases on the right side and download the Mac or Windows zip file of the game.
 
 Simply unzip and play!
 
